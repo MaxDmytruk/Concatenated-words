@@ -18,7 +18,7 @@ dependencies {
 jar {
     manifest {
         attributes(
-                'Main-Class': 'Lab5'
+                'Main-Class': 'Lab6'
         )
     }
 }
